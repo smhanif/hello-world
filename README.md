@@ -1,4 +1,3 @@
 # hello-world
-This project is a time-honored tradition in computer programming
 
-Saifullah Hanif
+This was used to understand the basic operations/functionality of GitHub
